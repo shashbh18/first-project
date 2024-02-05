@@ -1,3 +1,4 @@
 # first-project
 This is my first repository
-Author-Shashwati Bhattacharya
+Author-Shashwati mukherjee
+
